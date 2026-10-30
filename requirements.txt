@@ -1,0 +1,8 @@
+transformers>=5.17
+torch
+datasets
+accelerate
+requests
+matplotlib
+# NVIDIA GPU'da Gated DeltaNet için isteğe bağlı, uzun context'te belirgin hızlanma:
+# flash-linear-attention
