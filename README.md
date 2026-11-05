@@ -78,8 +78,7 @@ Her satır bir (ilan, soru) çifti; `bench_decisions.py` ve `report.py` bu alanl
 
 ## Veri seti
 
-İlan metinleri (`kariyer_set.jsonl`) paylaşım onayı gelene kadar repoda değil. `results/*.jsonl` dosyaları ilan metni
-içermez; satır başına id, seçenekler, etiket ve tahmin vardır, rapor bunlardan yeniden üretilebilir.
+İlan metinleri (`kariyer_set.jsonl`) repoda değil. `results/*.jsonl` dosyaları ilan metni içermez; satır başına id, seçenekler, etiket ve tahmin vardır, rapor bunlardan yeniden üretilebilir.
 
 ## Sınırlar
 
